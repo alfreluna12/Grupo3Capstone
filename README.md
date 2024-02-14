@@ -2,6 +2,8 @@
 
 ## Capstone documentation
 
+Based on https://github.com/alfreluna12/Europe-Travel-Website-html-css-js
+
 Update libraries
 
 Download docker using command sudo apt-get install docker
